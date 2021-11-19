@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [HTML, CSS, SASS, JS Website](https://gazz9ar.github.io/amelia-reciclados/index.html#)
 
-- 🌱 I’m currently learning **Javascript, Angular**
+- 🌱 I’m currently learning **Angular**
 
 - 👯 I’m looking to collaborate on **Angular and/or Ionic Projects**
 
-- 🤝 I’m looking for help with **Javascript, Angular and Ionic**
+- 🤝 I’m looking for help with **Angular and Ionic**
 
 - 👨‍💻 All of my projects are available at [Soon!](Soon!)
 
