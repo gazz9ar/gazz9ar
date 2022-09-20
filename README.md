@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **gazz9ar@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/gaspar-santillan-231b371b3/](https://www.linkedin.com/in/gaspar-santillan-231b371b3/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/gaspar-santillan-231b371b3/](https://www.linkedin.com/in/gasparsantillan)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
