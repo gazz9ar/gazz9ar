@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Angular and Ionic**
 
-- 👨‍💻 All of my projects are available at [Soon!](Soon!)
+- 👨‍💻 All of my projects are available at [Portfolio Website]([Soon!](https://gaspar-santillan.netlify.app/home))
 
 - 💬 Ask me about **Bootstrap, HTML, CSS, Angular, Git, GitHub**
 
