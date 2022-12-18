@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Santillan Gaspar</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">A passionate self-taught Frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working on [HTML, CSS, SASS, JS Website](https://gazz9ar.github.io/amelia-reciclados/index.html#)
+- 🔭 I’m currently working on [HTML, CSS, SASS, JS, Angular, Firebase, Web3 Website](https://gazz9ar.github.io/amelia-reciclados/index.html#)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **GO**
 
 - 👯 I’m looking to collaborate on **Angular and/or Ionic Projects**
 
-- 🤝 I’m looking for help with **Angular and Ionic**
+- 🤝 I’m looking for help with **GO**
 
 - 👨‍💻 All of my projects are available at [Portfolio Website](https://gaspar-santillan.netlify.app/home)
 
